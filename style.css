@@ -2037,7 +2037,7 @@ input[type="radio"]:checked + label:before {
   max-width: 800px !important;
 }
 
-.quicker-gif-height{
+.quicker-gif-height {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   max-height: 500px;
 }
@@ -2980,4 +2980,8 @@ ul.grid__list--fmenu li a:hover {
   .btn {
     padding: 8px 15px;
   }
+}
+
+.demoPic {
+  box-shadow: 0 0px 25px rgba(0, 0, 0, 0.15), 0 15px 12px rgba(0, 0, 0, 0.22);
 }
